@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    font-weight: bold;
+    background-color: aquamarine;
+}
+
+.recipe1:hover{
+    color: black;
+}
+
+.description{
+    text-align: center;
+    
+}
+
+
+
+
+
+
+
+
+
+
+/* .recipes.hover{
+    color:blue;
+} */
